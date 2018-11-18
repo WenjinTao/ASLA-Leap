@@ -2,6 +2,8 @@
 
 **ASLA-Leap** dataset is an American Sign Language Alphabet dataset collected with a Leap Motion Controller. It has 26 signs performed by 5 subjects and 500 samples for each sign.
 
+<img src="setup.png" width="85%">
+
 [Download](https://drive.google.com/file/d/1KwUmCafwUIcE1t9I8eNXU1rFldr8Rxfz/view?usp=sharing) (8.9GB .zip)
 
 ## Data Preprocessing
