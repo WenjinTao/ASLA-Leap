@@ -24,3 +24,17 @@ Please cite our [paper](http://amz.xcdsystem.com/C5AB9227-CA78-AE70-2946FDB80F96
   year = {2018}
 }
 ```
+If you are interested in this topic, here's another study we did for American Sign Language Alphabet Recognition.
+
+```
+@article{tao2018american,
+  title={American Sign Language alphabet recognition using Convolutional Neural Networks with multiview augmentation and inference fusion},
+  author={Tao, Wenjin and Leu, Ming C and Yin, Zhaozheng},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={76},
+  pages={202--213},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+
