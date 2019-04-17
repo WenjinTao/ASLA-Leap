@@ -10,6 +10,10 @@
 
 This [notebook](data_prep.ipynb) will show you how to read in the recorded Leap data.
 
+Also, you can find the dataset in `.jpg` and `.csv` files in the [`/dataset`](./dataset) folder, which is more convenient to get started.
+
+![](asl-leap-dataset.png)
+
 ## Citation
 
 Please cite our [paper](http://amz.xcdsystem.com/C5AB9227-CA78-AE70-2946FDB80F96639A_abstract_File8390/FinalPaper_1720_0306092921.pdf) in your publications if it helps your research.
